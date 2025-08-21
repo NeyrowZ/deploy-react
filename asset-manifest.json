@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy-react/static/css/main.d4ccd520.css",
+    "main.js": "/deploy-react/static/js/main.77a83996.js",
+    "static/media/banner-about.webp": "/deploy-react/static/media/banner-about.60f8593a9ac4a6d6452a.webp",
+    "static/media/banner-home.webp": "/deploy-react/static/media/banner-home.27e788a04f50c2b21617.webp",
+    "static/media/logo-header.svg": "/deploy-react/static/media/logo-header.a5783b4cef26b8023cc300291492bf29.svg",
+    "static/media/logo-footer.svg": "/deploy-react/static/media/logo-footer.daa3815b621b1ac271f47376ed48e7eb.svg",
+    "index.html": "/deploy-react/index.html",
+    "static/media/arrow.svg": "/deploy-react/static/media/arrow.9ffeb82f8a4156e52408a8b6da114a34.svg",
+    "static/media/next.svg": "/deploy-react/static/media/next.224e07798ade6bda6e2572adcd9fc9c3.svg",
+    "static/media/previous.svg": "/deploy-react/static/media/previous.e1c831f025531aaa34d3eb308a748ce2.svg",
+    "main.d4ccd520.css.map": "/deploy-react/static/css/main.d4ccd520.css.map",
+    "main.77a83996.js.map": "/deploy-react/static/js/main.77a83996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4ccd520.css",
+    "static/js/main.77a83996.js"
+  ]
+}
